@@ -1,6 +1,6 @@
 # Hi there 👋, welcome to my Github profile.
 
-<img width="100%" src="https://github-profile-page-creator.netlify.app/" alt="my banner">
+<img width="100%" src="https://live.staticflickr.com/65535/52197185800_bb4e8cd8a2_b.jpg">
 
 👩🏻 My name is Beatriz. I'm 29 yo.
 👩🏻‍💻 I'm currently being trained by Driven Education to be a Fullstack developer.
