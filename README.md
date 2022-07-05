@@ -3,13 +3,9 @@
 <img width="100%" src="https://live.staticflickr.com/65535/52197185800_bb4e8cd8a2_b.jpg">
 
 👩🏻 My name is Beatriz. I'm 29 yo.
-
 👩🏻‍💻 I'm currently being trained by Driven Education to be a Fullstack developer.
-
 😀 Pronouns: She/Her.
-
 🗣️ I speak two languages (my native one, portuguese, and english).
-
 🎓 I'm also graduated in International Relations and History.
 
 ## 💫 Liitle Bit More About Me
